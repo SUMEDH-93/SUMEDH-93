@@ -61,16 +61,6 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Kubernetes Networking
-- GitHub Actions
-- Cloud Native Technologies
-- Infrastructure as Code (Terraform)
-- Kubernetes Ingress & Networking
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
