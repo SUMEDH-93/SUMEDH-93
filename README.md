@@ -71,30 +71,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUMEDH-93&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUMEDH-93&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMEDH-93&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUMEDH-93&theme=tokyo-night" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
