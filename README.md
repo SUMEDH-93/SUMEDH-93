@@ -25,15 +25,6 @@
 
 ---
 
-## 🏆 Certifications
-
-- 🥇 Red Hat Certified System Administrator (RHCSA)
-- 🥇 Red Hat Certified Specialist in Containers
-- 🥇 Certified Linux Administrator (CLA)
-- 🥇 Google Cloud Digital Leader (GCP-CDL)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Operating Systems
