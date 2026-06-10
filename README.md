@@ -16,12 +16,15 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Passionate DevOps Engineer
-- ☁️ Working with Cloud & Container Technologies
-- 🐳 Experienced with Docker, Podman, Kubernetes and OpenShift
-- ⚙️ Automating Infrastructure using Terraform
-- 🔄 Building CI/CD Pipelines using GitHub Actions and Jenkins
-- 🌱 Continuously learning and improving DevOps skills
+🚀 DevOps Engineer passionate about automation, cloud technologies, and scalable infrastructure.
+
+🔹 Cloud & Infrastructure Automation  
+🔹 Docker, Podman, Kubernetes & OpenShift  
+🔹 Terraform & Infrastructure as Code (IaC)  
+🔹 Jenkins & GitHub Actions CI/CD Pipelines  
+🔹 Linux Administration & Shell Scripting  
+🔹 Monitoring, Logging & Troubleshooting  
+🔹 Continuous Learning & DevOps Best Practices
 
 ---
 
