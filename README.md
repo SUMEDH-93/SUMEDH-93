@@ -1,7 +1,7 @@
 <h1 align="center"> Sumedh Hiwale</h1>
 
 <h3 align="center">
-🚀 DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | CLA Certified |
+ DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | CLA Certified |
   <br>
   | Google Cloud Digital Leader |
 </h3>
