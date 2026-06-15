@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Sumedh Hiwale 👋</h1>
+<h1 align="center">Hi, I'm Sumedh Hiwale </h1>
 
 <h3 align="center">
  DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | CLA Certified
  <br>
- | Google Cloud Digital Leader |
+ Google Cloud Digital Leader
 </h3>
 
 <p align="center">
@@ -69,6 +69,10 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SUMEDH-93&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMEDH-93&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUMEDH-93&theme=tokyonight" />
 </p>
 
 ---
