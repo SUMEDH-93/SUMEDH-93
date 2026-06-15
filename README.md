@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sumedh Hiwale </h1>
+<h1 align="center">Hi, I'm Sumedh Hiwale 👋</h1>
 
 <h3 align="center">
  DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | CLA Certified
@@ -7,7 +7,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AWS;Terraform;Jenkins;Docker;Kubernetes;OpenShift;Infrastructure+Automation;CI%2FCD+Pipelines" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
 </p>
 
 <p align="center">
