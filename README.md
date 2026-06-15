@@ -5,6 +5,10 @@ DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | Google Cl
 </h3>
 
 <p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00B4DB,100:0083B0&text=Cloud%20%26%20DevOps%20Engineer&fontSize=45&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Jenkins;Docker+%7C+Kubernetes+%7C+OpenShift;Infrastructure+Automation;CI%2FCD+Pipelines;Continuous+Learning+%26+Innovation" />
 </p>
 
