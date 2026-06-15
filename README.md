@@ -18,35 +18,15 @@ DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | Google Cl
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
-
 🚀 DevOps Engineer passionate about automation, cloud technologies, and scalable infrastructure.
 
-🔹 Cloud & Infrastructure Automation
-
-🔹 Docker, Podman, Kubernetes & OpenShift
-
-🔹 Terraform & Infrastructure as Code (IaC)
-
-🔹 Jenkins & GitHub Actions CI/CD Pipelines
-
-🔹 Linux Administration & Shell Scripting
-
-🔹 Monitoring, Logging & Troubleshooting
-
+🔹 Cloud & Infrastructure Automation  
+🔹 Docker, Podman, Kubernetes & OpenShift  
+🔹 Terraform & Infrastructure as Code (IaC)  
+🔹 Jenkins & GitHub Actions CI/CD Pipelines  
+🔹 Linux Administration & Shell Scripting  
+🔹 Monitoring, Logging & Troubleshooting  
 🔹 Continuous Learning & DevOps Best Practices
-
-</td>
-
-<td width="40%">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="320"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -87,6 +67,8 @@ DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | Google Cl
 ---
 
 ## 🐍 Contribution Snake
+
+> ⚠️ This requires GitHub Actions setup to work.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
