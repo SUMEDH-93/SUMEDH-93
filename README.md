@@ -92,6 +92,8 @@ DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | Google Cl
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&lines=✨+Thanks+For+Visiting+My+Profile+✨" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
