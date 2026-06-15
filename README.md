@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Sumedh Hiwale 👋</h1>
+<h1 align="center">Hi, I'm Sumedh Hiwale </h1>
 
 <h3 align="center">
  DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | CLA Certified
  <br>
- Google Cloud Digital Leader
+ | Google Cloud Digital Leader |
 </h3>
 
 <p align="center">
