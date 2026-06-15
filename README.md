@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sumedh Hiwale </h1>
+<h1 align="center">Hi, I'm Sumedh Hiwale 👋</h1>
 
 <h3 align="center">
 DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | Google Cloud Digital Leader
@@ -18,15 +18,43 @@ DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | Google Cl
 
 ## 👨‍💻 About Me
 
-🚀 DevOps Engineer passionate about automation, cloud technologies, and scalable infrastructure.
+```yaml
+Name: Sumedh Hiwale
 
-🔹 Cloud & Infrastructure Automation  
-🔹 Docker, Podman, Kubernetes & OpenShift  
-🔹 Terraform & Infrastructure as Code (IaC)  
-🔹 Jenkins & GitHub Actions CI/CD Pipelines  
-🔹 Linux Administration & Shell Scripting  
-🔹 Monitoring, Logging & Troubleshooting  
-🔹 Continuous Learning & DevOps Best Practices
+Role: DevOps Engineer
+
+Certifications:
+  - RHCSA
+  - Red Hat Certified Specialist in Containers
+  - Google Cloud Digital Leader
+
+Cloud:
+  - AWS
+
+Containers:
+  - Docker
+  - Podman
+  - Kubernetes
+  - OpenShift
+
+DevOps:
+  - Terraform
+  - Jenkins
+  - GitHub Actions
+
+Operating System:
+  - Linux
+
+Focus Areas:
+  - Infrastructure Automation
+  - Infrastructure as Code (IaC)
+  - CI/CD Pipelines
+  - Cloud Native Technologies
+  - Monitoring & Troubleshooting
+
+Current Goal:
+  - Building scalable, automated, and reliable cloud infrastructure
+```
 
 ---
 
@@ -67,6 +95,8 @@ DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | Google Cl
 ---
 
 ## 🐍 Contribution Snake
+
+> ⚠️ Requires GitHub Actions setup for the snake animation.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
