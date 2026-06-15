@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Sumedh Hiwale 👋</h1>
 
 <h3 align="center">
-DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | Google Cloud Digital Leader
+ DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | CLA Certified
+ <br>
+ Google Cloud Digital Leader
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Jenkins;Docker+%7C+Kubernetes+%7C+OpenShift;Infrastructure+Automation;CI%2FCD+Pipelines;Continuous+Learning+%26+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AWS;Terraform;Jenkins;Docker;Kubernetes;OpenShift;Infrastructure+Automation;CI%2FCD+Pipelines" />
 </p>
 
 <p align="center">
@@ -62,14 +64,6 @@ DevOps Engineer | RHCSA | Red Hat Certified Specialist in Containers | Google Cl
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SUMEDH-93&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMEDH-93&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
